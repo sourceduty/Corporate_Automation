@@ -14,6 +14,16 @@ Finally, the GPT is proactive in suggesting solutions based on common industry p
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Hack Automation](https://github.com/sourceduty/Hack_Automation)
+<br>
+[Input Automation](https://github.com/sourceduty/Input_Automation)
+<br>
+[Decision Automation](https://github.com/sourceduty/Decision_Automation)
+<br>
+[Coworking Automation](https://github.com/sourceduty/Coworking_Automation)
+<br>
+[Automated Business](https://github.com/sourceduty/Automated_Business)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
