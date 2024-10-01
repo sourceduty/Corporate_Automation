@@ -24,6 +24,8 @@ Finally, the GPT is proactive in suggesting solutions based on common industry p
 [Coworking Automation](https://github.com/sourceduty/Coworking_Automation)
 <br>
 [Automated Business](https://github.com/sourceduty/Automated_Business)
+<br>
+[Sourceduty Employee](https://github.com/sourceduty/Sourceduty_Employee)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
